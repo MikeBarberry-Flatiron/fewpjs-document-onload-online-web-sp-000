@@ -1,7 +1,7 @@
 // Your code goes here
 
 document.addEventListener("DOMContentLoaded", function() {
-  updatedDOM();
+  updatedDOM()
 });
 
 console.log(
